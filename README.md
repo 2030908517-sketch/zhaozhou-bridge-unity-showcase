@@ -53,7 +53,7 @@ Importing only these scripts into an empty Unity project does not reproduce the 
 
 ## Assets and licensing
 
-The original project contained a bridge model, a Pure Poly nature pack, external textures, fonts and other media. The source files have been left out because redistribution rights were not fully established. See [THIRD_PARTY_ASSETS.md](docs/THIRD_PARTY_ASSETS.md).
+The development document identifies the nature environment as Pure Poly's Free Low Poly Nature Forest from the Unity Asset Store, and the bridge model, elder NPC model and audio as resources from Aigei / 爱给网. Other original files include textures and Chinese fonts. These original asset files have been left out because permission to redistribute them publicly was not established. Recorded source credits and remaining details are listed in [THIRD_PARTY_ASSETS.md](docs/THIRD_PARTY_ASSETS.md).
 
 No project-wide open-source license has been selected. This repository does not grant rights to excluded assets.
 

@@ -2,7 +2,7 @@
 
 An individual Unity coursework project about exploring Zhaozhou Bridge, collecting bridge components, answering knowledge questions and repairing parts of the bridge.
 
-Author: Shenghao Ye. The project was completed individually with AI assistance in code development. Third-party models and other assets were used; this is not a claim of modeling every asset from scratch.
+Author: Shenghao Ye. This was individual coursework, with AI assistance in code development. The scene uses third-party models and other assets.
 
 [中文说明](README.zh-CN.md)
 
@@ -18,6 +18,10 @@ Screenshots were extracted from the original coursework demonstration, not from 
 - [13-second repair demonstration](docs/media/bridge-repair-excerpt.mp4) — source interval 01:58–02:11, re-encoded without audio; original subtitles retained.
 
 See [development notes](docs/DEVELOPMENT_NOTES.md) for the recorded workflow and [media provenance](docs/MEDIA_SOURCES.md) for the sources and limitations.
+
+## Development work
+
+The coursework development record describes scene assembly, conversion of the bridge model from C4D to FBX, model import, task/UI configuration and debugging of camera selection and Chinese font display. These were parts of completing the course project; the models themselves came from external resources.
 
 ## What this repository contains
 
@@ -61,4 +65,4 @@ The original coursework recording provides historical evidence of the collection
 
 ## Coursework and AI assistance
 
-This was individual coursework for 动画设计与制作. Code development used AI assistance. During repository preparation, Chinese comments were converted from the original GB18030 encoding to UTF-8; script logic was preserved.
+Course: 动画设计与制作. During repository preparation, Chinese comments were converted from the original GB18030 encoding to UTF-8; script logic was preserved.

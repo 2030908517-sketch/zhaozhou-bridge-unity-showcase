@@ -25,7 +25,9 @@ The coursework development record describes scene assembly, conversion of the br
 
 ## What this repository contains
 
-This is a script and documentation showcase, **not a standalone playable Unity project**. It includes the four custom C# scripts and their Unity metadata from the coursework. The original scene, third-party assets, generated editor folders and builds are not included.
+**The complete Unity project is not publicly shared here because of copyright and redistribution restrictions on third-party assets used in the original project.** Public redistribution permission for all included models, audio, fonts and other assets has not been obtained.
+
+This repository provides the four custom C# scripts and their Unity metadata, development notes, actual gameplay screenshots and a short demonstration excerpt. The original scene, third-party asset files, generated editor folders and builds are not included. It is a coursework showcase, **not a standalone playable Unity project**. Asset credits and licensing details are recorded in [THIRD_PARTY_ASSETS.md](docs/THIRD_PARTY_ASSETS.md).
 
 ## Original gameplay
 
